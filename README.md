@@ -9,4 +9,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-[travel-website](/preview.png)
+#Live Demo:
+https://merlin-grace.github.io/Travel-website/
